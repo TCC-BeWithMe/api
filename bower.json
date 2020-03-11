@@ -1,0 +1,17 @@
+{
+  "name": "workspaceTCC",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Gabriela Mota <gabriela.mota@stitdata.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/TCC-BeWithUs/api",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

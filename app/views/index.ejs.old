@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>IFSP - Pirituba</title>
+    </head>
+    <body>
+        
+        <img src="data:image/png;base64,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" alt="logo">
+        <br>
+        <h1>Avaliação contínua</h1>
+        <h1>Aluno no IFSP, bem vindo ao <%=nome %></h1>
+        <div>
+            <a href="/Cursoss"><h3>Contatos</h3></a>
+            <ul>
+                <li><a href="/contatos/1"><h4>Contato 1</h4></a></li>
+                <li><a href="/contatos/2"><h4>Contato 2</h4></a></li>
+                <li><a href="/contatos/2"><h4>Contato 2</h4></a></li>
+            </ul>    
+            <a href="/cursos"><h3>Cursos</h3></a>
+            <ul>
+                <li><a href="/cursos/1"><h4>Cursos 1</h4></a></li>
+                <li><a href="/cursos/2"><h4>Cursos 2</h4></a></li>
+                <li><a href="/cursos/2"><h4>Cursos 2</h4></a></li>
+            </ul>  
+        </div>
+    </body>
+</html>
